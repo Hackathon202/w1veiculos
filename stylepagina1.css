@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+header {
+    height: 50px;   
+    display:flex;
+    align-items:center;
+    background-image:url("./r11L.png");
+    margin-left:7rem;
+}
+
+.img-titulo{
+    width:70px;
+    height:49px;
+    margin-left:1px;
+}
+
+div {
+    display:inline-block;
+    margin-left:40px;
+    margin-top:20px;
+    align-items:center;
+}
+
+.item-1{
+    width:24rem;
+    height:270px;
+    margin-left:300px;
+    margin-top: 10px;
+}
+
+
+body{
+    background-image:url("./W2\ Veiculos.png"); 
+    background-position:center;  
+    background-size:50rem;
+    background-repeat:no-repeat;
+ }
+ 
+section{
+    background-color: rgba(240, 248, 255,0.55);
+    margin-left:10rem;
+    margin-right:10rem;
+    height:30rem;
+    margin-top:1rem;
+}
+
+input{/*A caixa de Buscar*/
+    margin-left:100px;
+    height:2rem;
+    width:18rem;
+    border-radius:7px;     
+}
+
+
+.DivCompre{
+    margin-top:10px;
+    margin-left: 280px;
+}
+
+article{   /*ELE É PRA COLOCAR MARGIN NO INPUT*/
+    margin-left:20rem;
+}
+
+table{
+   margin-left:28px;
+   border-collapse: collapse;
+   height:7rem;
+   width: 62rem;
+   
+   }
+
+p{/*Paragrafo*/
+    width: 60rem;
+    height:30px;
+    margin-top:5px;
+    text-align-last:center;
+    font-weight:bold;
+}
+
+h1{
+    font-family:Cinzel;
+
+}
+
+.Compre{
+
+    width: 300px;
+    cursor: pointer;
+
+}
+
+.usuario{
+
+    height: 35px;
+    width:35px;
+    margin-left: 40px;
+
+}
+
+li{
+
+    display:inline;
+    margin-right:5px;
+    margin-left:10px;
+    list-style: none;
+
+}
+
+a{
+    text-decoration: none;
+    }

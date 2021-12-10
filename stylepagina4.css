@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing:border-box;
+}
+
+
+
+header {
+    height: 50px;   
+    display:flex;
+    align-items: center;
+    background-image: url("./r11L.png");
+    margin-left:5rem;
+    
+}
+
+
+
+.img-titulo{
+    width:70px;
+    height:49px;
+    margin-left:1px;
+}
+
+div {
+
+    display:inline-block;
+    margin-left:55rem;
+    align-items:center;
+    
+}
+
+
+
+body{
+    background-image:url("./W2\ Veiculos.png"); 
+    background-position:center;  
+    background-size:50rem;
+    background-repeat:no-repeat;
+ }
+
+article{   /*ELE É PRA COLAR MARGIN NO INPUT*/
+    margin-left:20rem;
+}
+
+
+input{/*A caixa de Buscar*/
+    margin-left:100px;
+    height:2rem;
+    width:18rem;
+    border-radius:7px; 
+}
+
+
+.item-4{
+
+height:1px;
+
+}
+
+
+.Cadastro{ 
+    margin-left:605px;
+    font-size:70px;
+    
+}
+.Documentação{
+    margin-left:650px;
+    font-size:25px;
+}
+
+.Filiação{
+    margin-left:680px;
+    font-size:25px;
+}
+
+.DadosPessoais{
+    margin-left:640px;
+    font-size:25px;
+}
+
+.nome{
+    
+    margin-left: 30rem;
+    margin-top: 11px;
+
+}
+
+.Endereço{
+    margin-left:460px;
+    margin-top: 11px;
+
+}
+
+.Complemento{
+    margin-left: 497px;
+    margin-top: 11px;
+
+}
+
+.Bairro{
+    margin-left:544px;
+    margin-top: 11px;
+
+}
+
+.Cidade{
+    margin-left: 538px;
+    margin-top: 11px;
+
+}
+
+.Estado{
+    margin-left:540px;
+    margin-top: 11px;
+
+}
+
+.Telefone{
+    margin-left:531px;
+    margin-top: 11px;
+
+}
+
+.Celular{
+    margin-left:539px;
+    margin-top: 11px;
+
+}
+
+.E-mail{
+    margin-left:543px;
+    margin-top: 11px;
+
+}
+
+.Cpf{
+    margin-left:552px;
+    margin-top: 11px;
+
+}
+
+.Identificação{
+    margin-left:503px;
+    margin-top: 11px;
+
+}
+
+.Orgão{
+    margin-left:474px;
+    margin-top: 11px;
+
+}
+
+.Mãe{
+    margin-left:490px;
+    margin-top: 11px;
+}
+
+.Pai{
+    margin-left:497px;
+    margin-top: 11px;
+}
+
+
+h1{
+    font-family:Cinzel;
+}
+
+.usuario{
+
+    height: 35px;
+    width:35px;
+    margin-left: 40px;
+
+}
+
+
+li{
+
+    display:inline;
+    margin-right:5px;
+    margin-left:1rem;
+    list-style: none;
+
+}
+
+
+a{
+    text-decoration: none;
+    }
